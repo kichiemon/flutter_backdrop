@@ -1,6 +1,8 @@
 # flutter_backdrop
 
-A new Flutter project.
+A Flutter project of Backdrop. 
+
+https://www.youtube.com/watch?v=LcEyi1_1bAw
 
 ## Getting Started
 
