@@ -1,5 +1,7 @@
 # flutter_backdrop
 
+![codemagic status](https://api.codemagic.io/apps/5eded5be3091aa9bf376cdba/5eded5be3091aa9bf376cdb9/status_badge.svg)
+
 A Flutter project of Backdrop. 
 
 https://www.youtube.com/watch?v=LcEyi1_1bAw
